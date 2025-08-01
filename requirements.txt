@@ -3,3 +3,4 @@ tensorflow
 joblib
 pandas
 numpy
+gunicorn
